@@ -6,6 +6,8 @@
 //4.Remove all Serial port code, recompile the sketch and upload.
 // This reduces power consumption during battery mode.
 
+//Author: Rodrigo Carbajales MarconiLab
+
 #include <avr/sleep.h>
 #include <avr/power.h>
 #include <avr/power.h>
